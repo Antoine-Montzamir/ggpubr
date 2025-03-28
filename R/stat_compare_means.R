@@ -161,7 +161,7 @@ stat_compare_means <- function(mapping = NULL, data = NULL,
                     method = method, method.args = method.args,
                     paired = paired, ref.group = ref.group,
                     symnum.args = symnum.args,
-                    hide.ns = hide.ns, na.rm = na.rm, vjust = vjust,...)
+                    hide.ns = hide.ns, na.rm = na.rm, vjust = vjust,... )
     )
 
   }
